@@ -7,7 +7,7 @@ public class CarClass {
 	// Data members for the class
 	int model;
 	String color;
-	int reg=2019;
+	int reg;
 	int amount=500000;
 	// Member functions for the class
 	void forward() {
